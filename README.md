@@ -3,6 +3,7 @@
 **RAGarden** is a multimodal Retrieval-Augmented Generation (RAG) system that combines **text and image embeddings** using [ImageBind](https://github.com/facebookresearch/ImageBind), integrates with **KDB.ai** for vector storage & search, and uses **Google Gemini** to generate rich descriptions of flowers.  
 It features a **Tkinter desktop UI** with theme switching, image display, and export options.
 
+**Contributed by:** Ms Sayuri Shelly <a href="https://github.com/sayurii1"> [Github] </a>
 ---
 
 ## Features
