@@ -1,0 +1,9 @@
+torch
+pillow
+numpy
+pandas
+requests
+python-dotenv
+imagebind
+google-generativeai
+kdbai-client
