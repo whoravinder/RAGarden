@@ -61,14 +61,14 @@ pip install -r requirements.txt
 ---
 
 ## Libraries used
--Python 3.9+
--PyTorch – for running ImageBind embeddings
--ImageBind – multimodal embedding model
--KDB.ai – vector database
--Google Gemini API – text generation
--Tkinter – desktop UI
--Pillow – image processing
--Pandas / NumPy – data handling
+- **Python** 3.9+
+- **PyTorch** – for running ImageBind embeddings
+- **ImageBind** – multimodal embedding model
+- **KDB.ai** – vector database
+- **Google Gemini API** – text generation
+- **Tkinter** – desktop UI
+- **Pillow** – image processing
+- **Pandas / NumPy** – data handling
 
 ---
 
